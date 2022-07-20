@@ -6,7 +6,7 @@ READMEs for Comsol files:
 
 # Aux files - 1D-Weak-Form_Complete.mph
 Definitions Files
-* [COMSOL Variables](https://github.com/leticiaMsci/Masters-Numerical-Repo/tree/main/COMSOL-Variables
+* [COMSOL Variables](https://github.com/leticiaMsci/Masters-Numerical-Repo/tree/main/COMSOL-Variables)
 
 
 
