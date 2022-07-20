@@ -8,6 +8,6 @@ READMEs for Comsol files:
 ## 1D-Weak-Form_Complete.mph
 Definitions Files
 * [COMSOL Variables](https://github.com/leticiaMsci/Masters-Numerical-Repo/tree/main/COMSOL-Variables)
-
+* [Analytical Expressions for Optical and Acoustic Fields in Mathematica](https://github.com/leticiaMsci/Masters-Numerical-Repo/tree/main/Mathematica-Field-Expressions)
 
 
