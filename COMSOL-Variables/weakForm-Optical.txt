@@ -1,0 +1,4 @@
+lambda_p withsol(sol_opt_p,abs(emw_p.omega),setind(lambda,i_opt_p)) ""
+lambda_s withsol(sol_opt_s,abs(emw_s.omega),setind(lambda,i_opt_s)) ""
+l_p floor(0.5*(-1+sqrt(1+4*lambda_p^2))) ""
+l_s floor(0.5*(-1+sqrt(1+4*lambda_s^2))) ""

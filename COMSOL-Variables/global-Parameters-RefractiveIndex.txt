@@ -1,0 +1,5 @@
+nglass 1.45 ""
+nair 1 ""
+nvacuum 1 ""
+nalumina 1.667 ""
+nzinc 2 ""

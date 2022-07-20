@@ -1,0 +1,3 @@
+ur r0*W*nLegendreMech1(z) ""
+utheta "(r0*((i*mmech*U + (1 + lmech)*V*z)*nLegendreMech1(z) + mechFac*(-1 - lmech + mmech)*V*nLegendreMech2(z)))/sqrt(1 - z^2)" ""
+uphi "(r0*((i*mmech*V - (1 + lmech)*U*z)*nLegendreMech1(z) + mechFac*(1 + lmech - mmech)*U*nLegendreMech2(z)))/sqrt(1 - z^2)" ""

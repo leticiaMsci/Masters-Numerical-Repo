@@ -1,0 +1,4 @@
+normu sqrt(abs(ur)^2+abs(utheta)^2+abs(uphi)^2) ""
+maxu maxop_mech(normu) ""
+integrand_meff material.def.rho*normu^2 ""
+meff intop_mech(integrand_meff)/(maxu^2) ""

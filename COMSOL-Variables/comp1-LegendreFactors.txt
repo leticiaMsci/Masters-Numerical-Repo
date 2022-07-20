@@ -1,0 +1,4 @@
+pumpFac "if(mod(lpump+mpump,2)==0, lpump+mpump+1, -1/(lpump-mpump+1))" ""
+StokesFac "if(mod(lStokes+mStokes,2)==0, lStokes+mStokes+1, -1/(lStokes-mStokes+1))" ""
+mechFac "if(mod(lmech+mmech,2)==0, lmech+mmech+1, -1/(lmech-mmech+1))" ""
+StokesFacNeg (lStokes+1-mStokes)/(lStokes+1+mStokes) ""

@@ -1,0 +1,3 @@
+QR 2*pi*freq*r0/vTSiO2 ""
+n l_p+l_s-StokesPolarOrder ""
+Omega freq ""

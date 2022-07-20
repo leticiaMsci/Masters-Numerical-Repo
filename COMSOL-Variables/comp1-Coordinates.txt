@@ -1,0 +1,3 @@
+theta atan2(r_ax,z_ax) ""
+r_ext sqrt(r_ax^2+z_ax^2) ""
+z cos(theta) ""

@@ -1,0 +1,6 @@
+Epphi "(Sp*((1 + lpump)*z*nLegendrePump1(z) + (-1 - lpump + mpump)*pumpFac*nLegendrePump2(z)))/(k0*sqrt(1 - z^2)*(r_ext))" ""
+Eptheta "(i*mpump*Sp*nLegendrePump1(z))/(k0*sqrt(1 - z^2)*(r_ext))" ""
+Epr 0 ""
+ESphi "(Ss*(-((1 + lStokes)*z*nLegendreStokes1(z)) + (1 + lStokes + mStokes)*StokesFac*StokesFacNeg*nLegendreStokes2(z)))/(k0*sqrt(1 - z^2)*(r_ext))" ""
+EStheta "(i*mStokes*Ss*nLegendreStokes1(z))/(k0*sqrt(1 - z^2)*(r_ext))" ""
+ESr 0 ""

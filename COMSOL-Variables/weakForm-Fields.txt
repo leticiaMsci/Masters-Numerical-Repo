@@ -1,0 +1,5 @@
+Sp withsol(sol_opt_p,u,setind(lambda,i_opt_p)) ""
+Ss withsol(sol_opt_s,v,setind(lambda,i_opt_s)) ""
+Wm "withsol(sol_solid, W, setind(lambda, i_solid))" ""
+Vm "withsol(sol_solid, V, setind(lambda, i_solid))" ""
+Um "withsol(sol_solid, U, setind(lambda, i_solid))" ""
