@@ -48,7 +48,7 @@ if true will create a text file with output data to be defined.
 #### (string) **observation/filename tag**: 
 a string with any information/observation/slash comment that will define the output files basenames.
 #### (string) **filePath**: 
-path where the output file is to be saved. The output file will be save as filePath/observation_tai<[alumina initial loop thickness](#float-alumina-initial-loop-thickness)>nm_taf<[alumina final loop thickness](#float-alumina-final-loop-thickness>nm.txt
+path where the output file is to be saved. The output file will be save as filePath/observation_tai<[alumina initial loop thickness](#float-alumina-initial-loop-thickness)>nm_taf<[alumina final loop thickness](#float-alumina-final-loop-thickness>nm.txt)
 #### (string array) **List of Expressions to Evaluate and Output in .txt file** :  
 defines the expression to evaluate. It should contain comsol functions, global parameters or component 1 probes (Component 1 - Physics > Definitions>Probes)
 
