@@ -1,24 +1,9 @@
 # Masters-Numerical-Repo
 
-[Link text](#some-id)
+Comsol files:
+
+## 1D-Weak-Form_Complete.mph
+## AssociatedLegendreDatabase.mph
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# <a name="some-id"></a> DETAIL SECTION
