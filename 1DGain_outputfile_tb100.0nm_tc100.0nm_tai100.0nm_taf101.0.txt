@@ -1,0 +1,27 @@
+Title: Single Al2O3 Layer (tb 100.0nm, tc 100.0nm)
+Observation:outputfile
+----------------------
+Details:
+Refr. indexes:{nglass:1.45, nair:1, nvacuum:1, nalumina:1.667, nzinc:2, }Other info:
+r0: 1.25E-4
+lambda0: 1.55E-6
+laginterp Order: 4.0
+
+----------------------
+Materials:
+Vacuum (mat16), root.mat16
+SiO2_2019_Wiederhecker 1 (mat14), root.mat14
+Al2O3_soft_2021_lsm (mat15), root.mat15
+Vacuum (matlnk1), root.comp1.matlnk1
+SiO2 (matlnk2), root.comp1.matlnk2
+Vacuum (matlnk4), root.weakForm.matlnk4
+SiO2 (matlnk5), root.weakForm.matlnk5
+ZnO - hypothetical (mat17), root.mat17
+
+----------------------
+Eval and Run times in ms:
+
+----------------------
+Data:
+ta,QR,lpump,lStokes,lmech,gMB,gPE,gMB_tan,gMB_nor,gMB_tan_in,gMB_nor_in,gMB_tan_out,gMB_nor_out,gPERR_a,gPEPHIPHI_a,gPEZZ_a,gPERPHI_a,gPERZ_a,gPEPHIZ_a,gPERR_b,gPEPHIPHI_b,gPEZZ_b,gPERPHI_b,gPERZ_b,gPEPHIZ_b,gPERR_sphere,gPEPHIPHI_sphere,gPEZZ_sphere,gPERPHI_sphere,gPERZ_sphere,gPEPHIZ_sphere,gPERR,gPEPHIPHI,gPEZZ,gPERPHI,gPERZ,gPEPHIZ,gPE31,gPE32,intV2,intW2,runTime,evalTime
+100, 1302.6628716511104, 718.0, 718.0, 1436.0, 1.1962219505922802, -28.917219329013022, 1.1962219505922802, 0.0, 0.0, 0.0, 1.1962219505922802, 0.0, -3.638043254743316E-6, 0.9412711473667071, 8.831278262814404E-4, 4.350848670780173E-4, -8.179087459732143E-4, -0.49109395757258445, -1.4938228369799805E-6, -0.03148350575888373, 1.3065867706281483E-4, -6.613203812560015E-5, -1.5005713744614178E-4, 0.14206103247102894, -4.066423604172262E-6, -34.97706431903659, -0.001310087070680275, -0.004633242024436785, 8.45884209058217E-4, 5.503782143244254, -9.19828969589556E-6, -34.067276677428765, -2.9630056733601795E-4, -0.0042642891954843675, -1.220816743611392E-4, 5.154749218142698, -2.866739356864375E-4, 4.375065294282851E-5, 1.5422311781624002E-23, 3.7919392271516456E-16, 9331, 43918
