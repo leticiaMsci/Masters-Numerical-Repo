@@ -1,6 +1,6 @@
 % Model:              AssociatedLegendreDatabase.mph
 % Version:            COMSOL 5.6.0.341
-% Date:               Jul 20 2022, 20:36
+% Date:               Jul 20 2022, 21:21
 % Dimension:          1
 % Nodes:              445
 % Expressions:        1
