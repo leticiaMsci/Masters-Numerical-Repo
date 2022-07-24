@@ -12,7 +12,7 @@ Definitions Files
 
 
 Output Files
-*[Example of output text file](https://github.com/leticiaMsci/Masters-Numerical-Repo/blob/main/1DGain_outputfile_tb100.0nm_tc100.0nm_tai100.0nm_taf101.0.txt)
-*[Output figures go in a folder inside the output text file directory](https://github.com/leticiaMsci/Masters-Numerical-Repo/tree/main/figures)
+* [Example of output text file](https://github.com/leticiaMsci/Masters-Numerical-Repo/blob/main/1DGain_outputfile_tb100.0nm_tc100.0nm_tai100.0nm_taf101.0.txt)
+* [Output figures go in a folder inside the output text file directory](https://github.com/leticiaMsci/Masters-Numerical-Repo/tree/main/figures)
 
 
