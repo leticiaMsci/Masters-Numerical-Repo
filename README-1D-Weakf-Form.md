@@ -1,5 +1,7 @@
 
 # 1D-Weak-Form_Complete
+Make sure to enable file system access to all files.
+Preferences -> Security -> File system access-> All files
 
 ## Model tree
 ![Pasted image 20220718215524](https://user-images.githubusercontent.com/70443015/180076407-84a3b985-216e-4297-8e38-00c37fa01779.png)
